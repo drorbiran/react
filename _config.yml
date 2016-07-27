@@ -42,7 +42,6 @@ exclude:
 - README.md
 - Rakefile
 - vendor/bundle
-markdown: redcarpet
 redcarpet:
   extensions:
   - fenced_code_blocks
