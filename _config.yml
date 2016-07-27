@@ -1,6 +1,6 @@
 ---
-name: Wix - React Native
-description: Bring the native back to react
+name: Dror Biran
+description: Changing description
 url: https://facebook.github.io
 baseurl: "/react"
 permalink: "/blog/:year/:month/:day/:title.html"
