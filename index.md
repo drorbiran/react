@@ -7,8 +7,8 @@ id: home
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Declarative</h3>
-      <p>React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.</p>
+      <h3>About us</h3>
+      <p>Bla bla bla</p>
       <p>Declarative views make your code more predictable and easier to debug.</p>
     </div>
     <div class="marketing-col">
